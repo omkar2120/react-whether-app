@@ -5,7 +5,8 @@ body {
   background-color: #263238;
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  /* font-family: 'Roboto', Helvetica, Arial, sans-serif; */
+  font-family: 'Pathway Extreme', sans-serif;
   color: #fff;
   display: flex;
   align-items: center;
